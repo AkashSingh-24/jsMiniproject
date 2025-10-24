@@ -1,1 +1,1 @@
-# jsMiniproject
+# JavaScriptMiniPro
